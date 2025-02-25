@@ -30,10 +30,18 @@ An **AI-powered virtual assistant** built using **Python, TensorFlow, and NLP**,
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the assistant**  
-   ```bash
-   python main.py
-   ```
+3. **Open in VS Code**  
+   - Open **Visual Studio Code**
+   - Click on **File > Open Folder...**
+   - Select the **AI-Virtual-Assistant** folder
+   - Open **main.py** and review the code
+
+4. **Run the assistant**  
+   - Open **Terminal** in VS Code (**View > Terminal**)
+   - Run the following command:  
+     ```bash
+     python main.py
+     ```
 
 ## 📸 Screenshots
 (![Screenshot (705)](https://github.com/user-attachments/assets/9b28fb84-e8cb-4c16-87fd-ec77ee420481)
@@ -53,3 +61,4 @@ An **AI-powered virtual assistant** built using **Python, TensorFlow, and NLP**,
 
 ## 📝 License
 This project is licensed under the **MIT License**.
+
